@@ -15,6 +15,6 @@ public class PlayerLook : MonoBehaviour
             transform.eulerAngles = Vector3.zero;
         }
 
-        transform.position = new Vector3(transform.position.x, 1.8f, transform.position.z);
+        transform.position = new Vector3(transform.position.x, 1.3f, transform.position.z);
     }
 }

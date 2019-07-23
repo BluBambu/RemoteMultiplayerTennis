@@ -923,7 +923,7 @@ MonoBehaviour:
   transport: {fileID: 1439620030}
   networkAddress: localhost
   maxConnections: 2
-  playerPrefab: {fileID: 436655514608194442, guid: e058d4af5d2ce4583841068713ba8468,
+  playerPrefab: {fileID: 7618215918812069925, guid: e058d4af5d2ce4583841068713ba8468,
     type: 3}
   autoCreatePlayer: 1
   playerSpawnMethod: 1

@@ -1,4 +1,4 @@
-# RemoteMultiplayerTennis
+# Remote Multiplayer Tennis
 
 A two person multiplayer game like Wii Tennis. Each player has an opposing view of the court and the game uses the accelerometer/gyroscope on the device to move the tennis racket.
 
